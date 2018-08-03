@@ -1,0 +1,10 @@
+Changelog
+=========
+
+2.3.4
+-----
+
+- Initial release,
+- Only necessary if you already used the iZAP Videos plugin before version 2.3.4 and have existing on-server videos on your site,
+- Requires iZAP Videos version 2.3.4,
+- Must be removed again after successfully finishing the HTML5 videos migration.
